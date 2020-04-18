@@ -1,56 +1,91 @@
 @font-face {
-  font-family: "Playfair Display";
-  src: url('../fonts/Playfair-Display-Bold.woff2') format('woff2'),
-  url('../fonts/Playfair-Display-Bold.woff') format('woff');
-  font-weight: 700;
+  font-family: "Arial";
+  src: url('../fonts/ArialRegular.woff2') format('woff2'),
+  url('../fonts/ArialRegular.woff') format('woff');
+  font-weight: 400;
   font-style: normal;
 }
 @font-face {
-  font-family: "Raleway";
-  src: url('../fonts/Raleway-Bold.woff2') format('woff2'),
-  url('../fonts/Raleway-Bold.woff.woff') format('woff');
-  font-weight: 700;
-  font-style: normal;
+  font-family: "BerlingskeSerif-BlkItalic";
+  src: url('../fonts/BerlingskeSerif-BlackItalic.woff2') format('woff2'),
+  url('../fonts/BerlingskeSerif-BlackItalic.woff') format('woff');
+  font-weight: 900;
+  font-style: italic;
 }
 @font-face {
-  font-family: "Raleway - Extra Bold";
-  src: url('../fonts/Raleway-ExtraBold.woff2') format('woff2'),
-  url('../fonts/Raleway-ExtraBold.woff') format('woff');
+  font-family: "BerlingskeSerif-DBdItalic";
+  src: url('../fonts/BerlingskeSerif-DBdItalic.woff2') format('woff2'),
+  url('../fonts/BerlingskeSerif-DBdItalic.woff') format('woff');
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: "BerlingskeSerif-LtItalic";
+  src: url('../fonts/BerlingskeSerif-LtItalic.woff2') format('woff2'),
+  url('../fonts/BerlingskeSerif-LtItalic.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: "BerlingskeSerif-MdItalic";
+  src: url('../fonts/BerlingskeSerif-MdItalic.woff2') format('woff2'),
+  url('../fonts/BerlingskeSerif-MdItalic.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: "BerlingskeSerif-XBdItalic";
+  src: url('../fonts/BerlingskeSerif-ExtBdIta.woff2') format('woff2'),
+  url('../fonts/BerlingskeSerif-ExtBdIta.woff') format('woff');
   font-weight: 800;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Gotham Pro";
+  src: url('../fonts/GothamPro-Bold.woff2') format('woff2'),
+  url('../fonts/GothamPro-Bold.woff') format('woff');
+  font-weight: 700;
   font-style: normal;
 }
 @font-face {
-  font-family: "Raleway";
-  src: url('../fonts/Raleway-Light.woff2') format('woff2'),
-  url('../fonts/Raleway-Light.woff') format('woff');
+  font-family: "Gotham Pro";
+  src: url('../fonts/GothamPro-Light.woff2') format('woff2'),
+  url('../fonts/GothamPro-Light.woff') format('woff');
   font-weight: 300;
   font-style: normal;
 }
 @font-face {
-  font-family: 'Raleway';
-  src: url('../fonts/Raleway-Medium.woff2') format('woff2'),
-  url('../fonts/Raleway-Medium.woff') format('woff');
+  font-family: "Gotham Pro";
+  src: url('../fonts/GothamPro-Medium.woff2') format('woff2'),
+  url('../fonts/GothamPro-Medium.woff') format('woff');
   font-weight: 500;
   font-style: normal;
 }
 @font-face {
-  font-family: 'Raleway';
-  src: url('../fonts/Raleway-Regular.woff2') format('woff2'),
-  url('../fonts/Raleway-Regular.woff') format('woff');
+  font-family: "Gotham Pro";
+  src: url('../fonts/GothamPro.woff2') format('woff2'),
+  url('../fonts/GothamPro.woff') format('woff');
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
-  font-family: "Raleway - Semi Bold";
-  src: url('../fonts/Raleway-SemiBold.woff2') format('woff2'),
-  url('../fonts/Raleway-SemiBold.woff') format('woff');
-  font-weight: 600;
+  font-family: "Museo Sans Cyrl 100";
+  src: url('../fonts/MuseoSansCyrl100.woff2') format('woff2'),
+  url('../fonts/MuseoSansCyrl100.woff') format('woff');
+  font-weight: 100;
   font-style: normal;
 }
 @font-face {
-  font-family: "Muller Thin";
-  src: url('../fonts/MullerThin.woff2') format('woff2'),
-  url('../fonts/MullerThin.woff') format('woff');
-  font-weight: 400;
+  font-family: "Museo Sans Cyrl 300";
+  src: url('../fonts/MuseoSansCyrl300.woff2') format('woff2'),
+  url('../fonts/MuseoSansCyrl300.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Museo Sans Cyrl 500";
+  src: url('../fonts/MuseoSansCyrl500.woff2') format('woff2'),
+  url('../fonts/MuseoSansCyrl500.woff') format('woff');
+  font-weight: 100;
   font-style: normal;
 }
